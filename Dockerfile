@@ -1,4 +1,4 @@
 FROM openjdk:latest
-COPY ./target/classes /tmp/
+COPY ./target/DevOps_Gp8-1.0.jar /tmp/
 WORKDIR /tmp
-ENTRYPOINT ["java", "DevOps_Gp8.App"]
+ENTRYPOINT ["java", "DevOps_Gp8-1.0.jar"]
