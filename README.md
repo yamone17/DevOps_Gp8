@@ -9,5 +9,5 @@ This is Group 8.
 Develop Build Status
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/yamone17/DevOps_Gp8/main.yml?branch=develop)
 
-Master Build Status
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/yamone17/DevOps_Gp8/main.yml?branch=master)
+Release Build Status
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/yamone17/DevOps_Gp8/main.yml?branch=release)
